@@ -6,6 +6,15 @@ hr {
     border-style: dotted none none;
     width: 4%;
     height: 0px;
-    border-color: rgb(245, 153, 87);
-    border-width: 10px;
+    border-color: rgb(145, 245, 87);
+    border-width: 5px;
+}
+h1 {
+    color: #1da561;
+
+}
+
+h3 {
+    color: #1da561;
+    font-style: oblique;
 }
